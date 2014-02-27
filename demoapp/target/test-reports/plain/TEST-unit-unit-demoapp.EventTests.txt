@@ -1,0 +1,15 @@
+Testsuite: demoapp.EventTests
+Tests run: 1, Failures: 1, Errors: 0, Time elapsed: 1.119 sec
+------------- Standard Output ---------------
+--Output from testSomething--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testSomething--
+------------- ---------------- ---------------
+
+Testcase: testSomething took 0.944 sec
+	FAILED
+junit.framework.AssertionFailedError: Implement me
+junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at demoapp.EventTests.testSomething(EventTests.groovy:15)
+
